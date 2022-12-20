@@ -11,4 +11,8 @@ So only one need to upload their Dataset file in the form of CSV file format as 
 
 ![image](https://user-images.githubusercontent.com/75212387/208309249-ff30b9f9-d655-499d-a9fa-ae1ce3b10a7f.png)
 
+## Multi Page App (Home.py / Project.py / Contact.py)
+> In this Prpject, I learnt how to create Multipage in Streamlit. Firstly created a folder multipage inside it i have created Home.py and  another folder i.e pages inside it created Project.py and Contact.py
+
+![image](https://user-images.githubusercontent.com/75212387/208668216-405d2a8a-70a8-4596-b6f2-64d1ab4c8bd2.png)
 
